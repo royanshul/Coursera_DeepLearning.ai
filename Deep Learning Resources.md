@@ -19,6 +19,9 @@ The fast.ai team (Jeremy Howard & Rachel Thomas) promises to take you to the coo
 
 * [fast.ai course](http://course.fast.ai/)
 
+Udacity Deep Learning NanoDegree Program 
+* [Udacity NanoDegree Program](https://classroom.udacity.com/nanodegrees/nd101/syllabus/core-curriculum)
+
 
 ## Tutorials & Articles
 [Preprocessing data](http://scikit-learn.org/stable/modules/preprocessing.html)
@@ -210,44 +213,3 @@ Visualise the training of your Keras model with an easy to use Matplotlib graph 
 
 [Enron Email Dataset](https://www.cs.cmu.edu/~enron/)
 
-
-## Whom I follow
-Andrew Ng | [Homepage](http://www.andrewng.org/) |  [Twitter](https://twitter.com/AndrewYNg)
-
-François Chollet | [Homepage](https://keras.io/) |  [Github](https://github.com/fchollet)     [Twitter](https://twitter.com/fchollet) 
-
-Ian Goodfellow | [Homepage](http://www.iangoodfellow.com) |  [Github](https://github.com/goodfeli) | 
-[Twitter](https://twitter.com/goodfellow_ian)
-
-Tshilidzi Mudau | [Twitter](https://twitter.com/thetshilidzi)
-
-Yann LeCun |  [Yann LeCun](http://yann.lecun.com/) |  [Twitter](https://twitter.com/ylecun) | 
-[Quora](https://www.quora.com/profile/Yann-LeCun) 
-
-Mike Tyka | [Homepage](http://www.miketyka.com/) | [Twitter](https://twitter.com/mtyka)
-
-Jason Yosinski | [Homepage](http://yosinski.com/) | [Twitter](https://twitter.com/jasonyo) | [Youtube](https://www.youtube.com/channel/UCr5GeO1mNHuBiqg0CgPAHdQ)
-
-Andrej Karpathy | [Homepage](https://karpathy.github.io/) | [Twitter](https://twitter.com/karpathy) | [G+](https://plus.google.com/+AndrejKarpathy) 
-
-Chris Olah | [Homepage](http://colah.github.io/) | [Github](https://github.com/colah/) | [Twitter](https://twitter.com/ch402)
-
-Yoshua Bengio | [Homepage](http://www.iro.umontreal.ca/~bengioy/yoshua_en/)
-
-Hugo Larochelle | [Homepage](http://info.usherbrooke.ca/hlarochelle/index_en.html) | [Twitter](https://twitter.com/hugo_larochelle)
-
-Denny Britz | [Blog](http://blog.dennybritz.com/) | [Twitter](https://twitter.com/dennybritz)
-
-Adit Deshpande | [Blog](https://adeshpande3.github.io/) | [Twitter](https://twitter.com/aditdeshpande3)
-
-Fei-Fei Li | [Blog](http://vision.stanford.edu/) | [Twitter](https://twitter.com/drfeifei)
-
-Josh Gordon | [Twitter](https://twitter.com/random_forests)
-
-Brandon Rohrer | [Blog](https://brohrer.github.io/) | [Twitter](https://twitter.com/_brohrer_)
-
-Rachel Thomas | [Blog](https://medium.com/@racheltho) | [Twitter](https://twitter.com/math_rachel)
-
-Jeremy Howard | [Blog](http://www.fast.ai/) | [Twitter](https://twitter.com/jeremyphoward)
-
-Stephen Merity | [Blog](http://smerity.com/) | [Twitter](https://twitter.com/smerity)
